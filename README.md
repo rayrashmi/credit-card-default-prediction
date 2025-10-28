@@ -1,10 +1,9 @@
 ## Credit Default Risk Mitigation
-OBJECTIVE
+OVERVIEW
 This project focuses on credit default risk mitigation in credit card applications, emphasizing the identification of clients with potential payment difficulties. Using advanced analytical techniques and machine learning algorithms, the study aims to enhance financial risk management through data-driven insights.
 
-OVERVIEW
+OBJECTIVE
 The objective of this project is to build a predictive model that estimates the likelihood of credit default among clients, allowing financial institutions to make informed lending decisions and reduce financial losses.
-A complete data science pipeline — from data preprocessing to model deployment — was implemented, followed by interactive visualization using Tableau for risk monitoring.
 
 METHODOLODY
 >> Data Preprocessing
